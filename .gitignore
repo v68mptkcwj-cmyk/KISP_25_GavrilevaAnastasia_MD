@@ -6,56 +6,45 @@
 /.pnp
 .pnp.js
 
-
 # testing
 /coverage
-
 
 # next.js
 /.next/
 /out/
 
-
 # production
 /build
-
 
 # misc
 .DS_Store
 *.pem
-
 
 # debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
 # local env files
 .env*.local
 .env
 
-
 # vercel
 .vercel
-
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
 
 # Node.js (зависимости и логи)
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
-
 # Архивы и файлы сборки React Native
 .expo/
 .metro/
 dist/
-
 
 # Android-специфичные файлы
 android/app/build/
@@ -64,7 +53,6 @@ android/local.properties
 android/generated/
 *.iml
 .idea/
-
 
 # iOS-специфичные файлы
 ios/build/
@@ -75,13 +63,11 @@ ios/.xcode.env.local
 *.xcuserstate
 *.lock
 
-
 # Конфиденциальные данные и ключи (ВАЖНО)
 *.keystore
 *.jks
 google-services.json
 GoogleService-Info.plist
-
 
 # Операционная система
 Thumbs.db
