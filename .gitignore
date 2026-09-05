@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Node.js (зависимости и логи)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Архивы и файлы сборки React Native
+.expo/
+.metro/
+dist/
