@@ -1,4 +1,4 @@
-# KISP_25_VinokurovIlya_MD
+# KISP_25_GavrilevaAnastasia_MD
 курс: Разработка мобильных приложений (очное) для группы КИСП-25
 
 <!-- https://github.com/ -->
